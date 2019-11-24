@@ -1,4 +1,4 @@
-> \# RenameWithExcel
+# RenameWithExcel
 
 1.  确认所有需要重命名的文件在同一文件夹内 ,
     且文件夹内不包含其他重要文件
